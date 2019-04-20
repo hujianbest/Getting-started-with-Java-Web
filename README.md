@@ -37,3 +37,11 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 10. 参考资料
   - [Git简明指南](http://www.runoob.com/manual/git-guide/)
   - [Git官方教程](https://git-scm.com/book/zh/v2/)
+
+## Maven：依赖管理
++ [IDEA自带 Maven 官方教程](https://www.jetbrains.com/help/idea/maven-support.html)
++ [Maven基本教程](http://www.runoob.com/maven/maven-tutorial.html)
++ [Maven视频教程](https://www.imooc.com/learn/443)
++ [认识`pom.xml`文件](https://www.cnblogs.com/wkrbky/p/6353285.html)
+
+## Linux与云服务器：搭建个人网站
