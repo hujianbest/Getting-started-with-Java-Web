@@ -73,4 +73,4 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
   `chmod`
   + 启动服务   
   `nohup`   
-  例如`nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝，xxx.log：指定标准输出为xxx.log，2>&1：将标准错误流重定向到标准输出，&：让该命令在后台运行`
+  例如`nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝, xxx.log：指定标准输出为xxx.log, 2>&1：将标准错误流重定向到标准输出, &：让该命令在后台运行`
