@@ -28,12 +28,12 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 `$ git push -u origin master //第一次推送需指明远程仓库的别名和分支`   
 `$ git push //后续只需push即可`
 9. Git常用命令   
-`git init //初始化`   
-`git add //添加文件`   
-`git commit //提交`   
-`git push //向远程仓库推送`   
-`git clone //从远程仓库克隆`   
-`git pull //从远程仓库拉取`   
+`$ git init //初始化`   
+`$ git add //添加文件`   
+`$ git commit //提交`   
+`$ git push //向远程仓库推送`   
+`$ git clone //从远程仓库克隆`   
+`$ git pull //从远程仓库拉取`   
 10. 参考资料
   - [Git简明指南](http://www.runoob.com/manual/git-guide/)
   - [Git官方教程](https://git-scm.com/book/zh/v2/)
@@ -62,18 +62,18 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
   + [搭建 Java Web 开发环境](https://cloud.tencent.com/developer/labs/lab/10035)
 + [Linux命令行基础](http://www.runoob.com/linux/linux-command-manual.html)
   + 文件管理   
-  `cd //切换工作目录`   
-  `ls //查看文件信息`   
-  `mkdir //创建目录`   
-  `mv //移动`   
-  `copy //复制`   
-  `rm //删除文件`   
-  `rmdir //删除目录`  
+  `$ cd //切换工作目录`   
+  `$ ls //查看文件信息`   
+  `$ mkdir //创建目录`   
+  `$ mv //移动`   
+  `$ copy //复制`   
+  `$ rm //删除文件`   
+  `$ rmdir //删除目录`  
   + 权限管理   
-  `chmod`
+  `$ chmod`
   + 启动服务   
-  `nohup`   
-  例如`nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝, xxx.log：指定标准输出为xxx.log, 2>&1：将标准错误流重定向到标准输出, &：让该命令在后台运行`
+  `$ nohup`   
+  例如`$ nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝, xxx.log：指定标准输出为xxx.log, 2>&1：将标准错误流重定向到标准输出, &：让该命令在后台运行`
 
 ## 万事俱备只欠东风：开始你的Java 开发
 ### Java基础
