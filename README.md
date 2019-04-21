@@ -74,3 +74,38 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
   + 启动服务   
   `nohup`   
   例如`nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝, xxx.log：指定标准输出为xxx.log, 2>&1：将标准错误流重定向到标准输出, &：让该命令在后台运行`
+
+## 万事俱备只欠东风：开始你的Java 开发
+### Java基础
++ 基本类型与运算
++ 流程控制
++ 面向对象
++ 权限控制
++ 继承
++ 接口
++ 多态
++ 反射
++ 注解
++ 异常
++ 容器
++ I/O
++ 并发
++ JUnit
+
+### 服务框架
++ Spring
++ SpringMVC
++ Spring Boot
++ Spring Cloud
+
+### 核心组件
++ MySQL
++ MongoDB
++ Redis
++ Zookeeper
++ Kafka
++ FastDFS
++ Elasticsearch
+
+### 部署服务
++ Docker
