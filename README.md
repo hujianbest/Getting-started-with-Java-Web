@@ -45,3 +45,32 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 + [认识`pom.xml`文件](https://www.cnblogs.com/wkrbky/p/6353285.html)
 
 ## Linux与云服务器：搭建个人网站
+在网站后台的开发过程中, 通常测试环境和生产环境的软件都是运行在Linux服务器上. 而为了在公网上提供网络服务, 你需要一个公网固定IP 以及一个域名, 如果你想每次访问你的个人网站的时候都输入IP 来访问, 那么域名便不是必需的.    
+购买一个当下云服务提供商的云主机能有效解决Linux操作系统和公网IP 的功能, 此外这些云服务提供商还一站式的提供了域名购买和备案服务(最新的规定购买的域名要备案才能使用了, 挺麻烦的, 周期一到两个月吧).
++ 云服务商
+  + [AWS](http://aws.amazon.com)
+  + [Google Cloud](http://cloud.google.com)
+  + [Microsoft Azure Cloud](http://azure.microsoft.com)
+  + [阿里云](http://www.aliyun.com)
+  + [腾讯云](http://cloud.tencent.com)
+  + [百度云](http://cloud.baidu.com)
+  + [华为云](http://www.huaweicloud.com)
++ 体验腾讯云(试用[开发者实验室](https://cloud.tencent.com/developer/labs/gallery))
+  + [搭建 Nginx 静态网站](https://cloud.tencent.com/developer/labs/lab/10003)
+  + [基于 CentOS 搭建 WordPress 个人博客](https://cloud.tencent.com/developer/labs/lab/10001)
+  + [基于 CentOS 搭建微信小程序服务](https://cloud.tencent.com/developer/labs/lab/10004)
+  + [搭建 Java Web 开发环境](https://cloud.tencent.com/developer/labs/lab/10035)
++ [Linux命令行基础](http://www.runoob.com/linux/linux-command-manual.html)
+  + 文件管理   
+  `cd //切换工作目录`   
+  `ls //查看文件信息`   
+  `mkdir //创建目录`   
+  `mv //移动`   
+  `copy //复制`   
+  `rm //删除文件`   
+  `rmdir //删除目录`  
+  + 权限管理   
+  `chmod`
+  + 启动服务   
+  `nohup`   
+  例如`nohup java -jar xxx.jar >xxx.log 2>&1 & //java -jar xxx.jar：启动打包好的jar宝，xxx.log：指定标准输出为xxx.log，2>&1：将标准错误流重定向到标准输出，&：让该命令在后台运行`
