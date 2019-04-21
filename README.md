@@ -77,8 +77,19 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 
 ## 万事俱备只欠东风：开始你的Java 开发
 ### Java基础
-+ 基本类型与运算
++ 基本类型与运算   
+  + [Java中基本数据类型和包装类](https://www.cnblogs.com/linjiaxin/p/6393380.html)    
+  Java是一种面向对象语言, Java中的所有对象都是由Object类派生而来, 但Java的八大基本类型是特例, Java中万物皆对象, 除了这八位大哥
+  + [Java中boolean类型到底占用多少个字节？](https://blog.csdn.net/YuanMxy/article/details/74170745)
+  + [运算符](http://www.runoob.com/java/java-operators.html)
 + 流程控制
+  + if-else
+  + switch
+  + while
+  + for
+  + break
+  + continue
+  + return
 + 面向对象
 + 权限控制
 + 继承
@@ -94,7 +105,7 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 
 ### 服务框架
 + Spring
-+ SpringMVC
++ Spring MVC
 + Spring Boot
 + Spring Cloud
 
