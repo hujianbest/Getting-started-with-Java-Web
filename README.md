@@ -8,6 +8,7 @@
 6. 验证邮件
 7. [下载](https://www.jetbrains.com/idea/download)Ultimate版本
 8. 安装IDEA并使用已获得LICENSE的账号登录即可
+9. [IDEA图文教程](https://mp.weixin.qq.com/s?__biz=MzIxNjA5MTM2MA==&mid=2652435550&idx=1&sn=6ccd0924ea91378023abee5e13137c53&chksm=8c620bd1bb1582c7526c58e94fc570f31f1dd009decf393550b5f797a550bf0956cd06a2e0cc&mpshare=1&scene=23&srcid=0503NFGEvFTLsl5obv0Em5Cv#rd)
 
 ## Git 与 Github: 开始你的代码管理
 1. [下载](https://git-scm.com/)并安装Git
@@ -39,6 +40,7 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
   - [Git官方教程](https://git-scm.com/book/zh/v2/)
 
 ## Maven：依赖管理
+在Java的世界中, 依赖管理是不得不面对的问题. 所谓依赖就是在项目中引用的开源类库(别人的)或者项目里的其他模块(自己的).
 + [IDEA自带 Maven 官方教程](https://www.jetbrains.com/help/idea/maven-support.html)
 + [Maven基本教程](http://www.runoob.com/maven/maven-tutorial.html)
 + [Maven视频教程](https://www.imooc.com/learn/443)
@@ -120,3 +122,26 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 
 ### 部署服务
 + Docker
+
+### 设计模式
++ [23种设计模式全解析](https://www.cnblogs.com/geek6/p/3951677.html)
++ [JDK中的设计模式](https://mp.weixin.qq.com/s?__biz=MzIxNjA5MTM2MA==&mid=2652435557&idx=1&sn=87e79f13b2bf0a151aea16f2c21a16b0&chksm=8c620beabb1582fc99a9ae079ba0de7004b7517e983dd83b8c7d7e415cbe8712d269e3c5ed45&mpshare=1&scene=23&srcid=0503F7nxSDKOWCMVgAJTiEyy#rd)
+
+### 网站 & 博客
+
++ [并发编程网](http://ifeve.com/)
++ [Stackoverflow](https://stackoverflow.com/)
++ [Javaworld](https://www.javaworld.com/)
++ [Java API Examples](https://www.programcreek.com/java-api-examples/)
++ [Java 技术驿站](http://cmsblogs.com/)
++ [剑指offer](http://zhedahht.blog.163.com/)
++ [张开涛的博客](https://jinnianshilongnian.iteye.com/)
++ [Javadoop](https://javadoop.com/)
++ [花钱的年华](http://calvin1978.blogcn.com/)
++ [梁桂钊的博客](http://blog.720ui.com/)
++ [Best的博客(哈哈哈哈，忍不住放了上来)](https://blog.csdn.net/whut2010hj)
+
+### 代码规范
++ [阿里巴巴 Java 开发手册（详尽版）]()
++ [Effective Java第三版中文版](https://legacy.gitbook.com/book/jiapengcai/effective-java/details)
++ [Google Java 编程规范（中文版）](http://www.gitbook.com/book/jervyshi/google-java-styleguide-zh/details)
