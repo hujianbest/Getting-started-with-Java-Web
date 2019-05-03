@@ -142,6 +142,6 @@ Windows下会在用户文件夹下的`.ssh`文件夹下生成两个秘钥文件
 + [Best的博客(哈哈哈哈，忍不住放了上来)](https://blog.csdn.net/whut2010hj)
 
 ### 代码规范
-+ [阿里巴巴 Java 开发手册（详尽版）]()
++ [阿里巴巴 Java 开发手册（详尽版）]https://github.com/hujianbest/Getting-started-with-Java-Web/blob/master/resources/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf)
 + [Effective Java第三版中文版](https://legacy.gitbook.com/book/jiapengcai/effective-java/details)
 + [Google Java 编程规范（中文版）](http://www.gitbook.com/book/jervyshi/google-java-styleguide-zh/details)
